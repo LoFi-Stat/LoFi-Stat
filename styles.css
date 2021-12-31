@@ -17,9 +17,9 @@ iframe {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   -o-object-position: center;
-     object-position: center;
+  object-position: center;
 }
 
 .overlay {
@@ -28,20 +28,20 @@ iframe {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .overlay h2 {
-    background: #000 none repeat scroll 0 0;
-    color: white;
-    font-weight: 600;
-    margin: 2rem 3rem 0;
-    mix-blend-mode: luminosity;
-    padding: 5px 15px;
-    text-align: center;
+  background: #000 none repeat scroll 0 0;
+  color: white;
+  font-weight: 600;
+  margin: 2rem 3rem 0;
+  mix-blend-mode: luminosity;
+  padding: 5px 15px;
+  text-align: center;
 }
 .logo{
   position: absolute;
